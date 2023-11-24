@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+li{
+    display:inline;
+    margin-right:50px;
+}
+header{
+    background-color: rgb(184, 78, 2);
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%
+}
+.field{
+    padding-right: 2px;
+    display: inline-block;
+    padding-bottom: -12px;
+}
+.field1{
+    padding-right: 2px;
+    display: inline-block;
+}
+footer{
+    background-color: black;
+    color:ghostwhite;
+    padding: 10px;
+}
+#Portfolio {
+    background-color: peru;
+}
+#Contact{
+    background-color: pink;
+}
+ul li a{
+    color: ghostwhite;
+}
+h1{
+    color: navy;
+}
+ul li Progress{
+    color: blue;
+}
